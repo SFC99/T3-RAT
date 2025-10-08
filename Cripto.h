@@ -1,3 +1,4 @@
+//Angel David Morales Palomo
 #ifndef CRIPTO_H
 #define CRIPTO_H
 #include <string>
