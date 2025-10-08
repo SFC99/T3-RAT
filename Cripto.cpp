@@ -1,3 +1,4 @@
+//Angel David Morales Palomo
 #include "Cripto.h"
 #include <openssl/aes.h>
 #include <openssl/rand.h>
