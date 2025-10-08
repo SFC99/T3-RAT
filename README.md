@@ -5,9 +5,9 @@ Cliente/servidor minimalista para control remoto cifrado en Windows. El cliente 
 
 
 ## Integrantes 🤝
-- **Juan Angel Rodríguez Bulnes** — Módulo Comm
-- **Angel David Morales Palomo** — Módulo Crypto
-- **Sofía Martínez Cisneros** — Módulo Exec
+- **Juan Angel Rodríguez Bulnes** — Módulo Comm, Modulo Persist
+- **Angel David Morales Palomo** — Módulo Crypto,
+- **Sofía Martínez Cisneros** — Módulo Exec, Main
 ---
 
 ## Requisitos del sistema ✔
