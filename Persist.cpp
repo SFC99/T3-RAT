@@ -1,3 +1,4 @@
+//Juan Angel Rodríguez Bulnes
 #include "Persist.h"
 #include <iostream>
 #include <filesystem>
@@ -138,4 +139,5 @@ bool Persist::copiarEjecutable(const std::string& rutaActual, const std::string&
         std::cerr << "Error al copiar ejecutable: " << GetLastError() << std::endl;
         return false;
     }
+
 }
