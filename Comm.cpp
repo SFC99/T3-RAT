@@ -1,3 +1,4 @@
+//Juan Angel Rodríguez Bulnes
 #include "Comm.h"
 #include <iostream>
 #include <cstring>
